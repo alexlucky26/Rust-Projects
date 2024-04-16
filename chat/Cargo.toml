@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+    "stp",
+    "chat_server",
+    "chat_client",
+    "chat_tui"
+]

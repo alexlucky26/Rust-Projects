@@ -1,0 +1,3 @@
+[workspace]
+resolver='2'
+members = ["thermo_client", "thermo_server"]
